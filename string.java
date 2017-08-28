@@ -3,11 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package Movetest;
 
 /**
  *
  * @author khanhtommes
  */
-public class Frame {
+class string {
     
 }
